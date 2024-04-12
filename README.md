@@ -21,3 +21,6 @@ WeCare is a website focused on promoting mental health awareness and providing r
 - Testimonials section with swiper slider
 - Subscribe section
 - Footer with company information and links
+
+##Designed and developed by :
+- Bhavay and Nishtha
